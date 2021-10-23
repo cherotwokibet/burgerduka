@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###/* Burger Duka */
+# /* Burger Duka */
 Burger Duka is a web app that lets users input the ingredients of the burger they'd like to eat.
+
 
 ## Live Site
 View page https://burgerduka.netlify.app/
@@ -19,3 +19,4 @@ firebase
 
 Run $npm install 
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
