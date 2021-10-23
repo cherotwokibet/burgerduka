@@ -12,8 +12,8 @@ Prepare to be served.
 
 ## Technologies Used
 
-create-react-app
-firebase
+- create-react-app
+- firebase
 
 ## To install
 
