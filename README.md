@@ -1,5 +1,5 @@
 
-# /* Burger Duka */
+#  Burger Duka
 Burger Duka is a web app that lets users input the ingredients of the burger they'd like to eat.
 
 
